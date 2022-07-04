@@ -11,6 +11,9 @@
 
 body {
     font-family: 'Noto Sans KR', sans-serif;
+    /* 최대 크기 500px */
+    max-width: 450px;
+    margin: 0 auto;
 }
 
 .container {
